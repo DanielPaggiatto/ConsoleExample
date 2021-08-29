@@ -1,0 +1,16 @@
+C:\Users\Gustavo\Documents\Projetos\Temporarios\example\bin\Debug\net5.0\example.exe
+C:\Users\Gustavo\Documents\Projetos\Temporarios\example\bin\Debug\net5.0\example.deps.json
+C:\Users\Gustavo\Documents\Projetos\Temporarios\example\bin\Debug\net5.0\example.runtimeconfig.json
+C:\Users\Gustavo\Documents\Projetos\Temporarios\example\bin\Debug\net5.0\example.runtimeconfig.dev.json
+C:\Users\Gustavo\Documents\Projetos\Temporarios\example\bin\Debug\net5.0\example.dll
+C:\Users\Gustavo\Documents\Projetos\Temporarios\example\bin\Debug\net5.0\ref\example.dll
+C:\Users\Gustavo\Documents\Projetos\Temporarios\example\bin\Debug\net5.0\example.pdb
+C:\Users\Gustavo\Documents\Projetos\Temporarios\example\obj\Debug\net5.0\example.csprojAssemblyReference.cache
+C:\Users\Gustavo\Documents\Projetos\Temporarios\example\obj\Debug\net5.0\example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Documents\Projetos\Temporarios\example\obj\Debug\net5.0\example.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\Projetos\Temporarios\example\obj\Debug\net5.0\example.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\Projetos\Temporarios\example\obj\Debug\net5.0\example.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\Projetos\Temporarios\example\obj\Debug\net5.0\example.dll
+C:\Users\Gustavo\Documents\Projetos\Temporarios\example\obj\Debug\net5.0\ref\example.dll
+C:\Users\Gustavo\Documents\Projetos\Temporarios\example\obj\Debug\net5.0\example.pdb
+C:\Users\Gustavo\Documents\Projetos\Temporarios\example\obj\Debug\net5.0\example.genruntimeconfig.cache
